@@ -17,7 +17,4 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-body {
-  background-color: #1e1e1e !important;
-  color: #c9d1d9 !important;
-}
+
